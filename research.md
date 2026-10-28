@@ -55,7 +55,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
    - Coverage: [NDTV](https://www.ndtv.com/elections-news/truth-vs-hype-contenders-2014-the-making-of-modi-wave-561267)
 
 8. **[Implementing Health Insurance for the Poor: The Rollout of RSBY in Karnataka, India]({{ "/assets/papers/rajasekhar-et-al-2011-rsby-epw.pdf" | relative_url }})** (with D. Rajasekhar, Erlend Berg, Maitreesh Ghatak and R. Manjula). *[Economic and Political Weekly](https://www.epw.in/)*, 2011.
-   - Coverage: [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/Hospitals-unable-to-treat-patients-under-insurance-scheme/article15597613.ece), [Deccan Herald](http://www.deccanherald.com/content/121308/bpl-insurance-scheme-not-80.html), [The Hindu Business Line](http://www.thehindubusinessline.com/todays-paper/tp-economy/BPL-health-insurance-fails-to-take-off-in-Karnataka/article20022014.ece), [Business Standard](http://www.business-standard.com/article/finance/hospitals-unprepared-for-national-insurance-scheme-110122100041_1.html), [Business India](http://www.rsby.gov.in/NewsImage/868%20Spl%20Report%20%28RSBY%29.pdf)
+   - Coverage: [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/Hospitals-unable-to-treat-patients-under-insurance-scheme/article15597613.ece), [The Hindu Business Line](http://www.thehindubusinessline.com/todays-paper/tp-economy/BPL-health-insurance-fails-to-take-off-in-Karnataka/article20022014.ece), [Business Standard](http://www.business-standard.com/article/finance/hospitals-unprepared-for-national-insurance-scheme-110122100041_1.html)
 
 ## Book chapters and monographs
 
