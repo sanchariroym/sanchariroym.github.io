@@ -21,7 +21,7 @@ description: >-
     <p>Sanchari's research sits at the intersection of gender, development economics and psychology.
     She studies how laws, norms and beliefs shape the lives of women and their children, using experimental
     and quasi-experimental methods in India, Vietnam, Colombia, Nepal and South Africa. Sanchari has also
-    taught at King's College London, the University of Warwick and the University of Sussex.</p>
+    taught at King's College London, University of Warwick and University of Sussex.</p>
     </div>
     <p class="links">
       <a href="https://experts.exeter.ac.uk/41350-sanchari-roy">Exeter profile</a>
