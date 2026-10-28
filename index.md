@@ -9,7 +9,7 @@ description: >-
 <div class="intro">
   <div class="photo"><img src="{{ '/assets/images/sanchari-roy.jpg' | relative_url }}" alt="Portrait of Sanchari Roy"></div>
   <div>
-    <h1><span>Sanchari Roy</span></h1>
+    <h1>Sanchari Roy</h1>
     <p class="role">Associate Professor of Economics, University of Exeter</p>
     <div class="bio">
     <p>Sanchari Roy is Associate Professor of Economics and Director of the MRes/PhD Programme at the
