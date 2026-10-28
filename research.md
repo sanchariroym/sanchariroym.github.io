@@ -29,7 +29,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
    - [World Bank Policy Research Working Paper 7792](https://openknowledge.worldbank.org/entities/publication/501d4171-da8a-5fb0-bf8a-f165d3fdca2c)
 
 8. **[Empowering Women? Inheritance Rights, Female Education and Dowry Payments in India]({{ "/assets/papers/roy-2015-empowering-women-jde.pdf" | relative_url }})**. *[Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics)* 114(3): 233–251, 2015.
-   - [Working paper version](https://drive.google.com/open?id=1VFYVztuIF65azsTeOpCTESUVORvwXEbv); Cited in [World Development Report 2012](https://siteresources.worldbank.org/INTWDR2012/Resources/7778105-1299699968583/7786210-1315936222006/Complete-Report.pdf); Coverage: [The Wire](https://thewire.in/225464/an-unpleasant-truth-underlies-gender-discrimination-in-india/)
+   - [Working paper version](https://drive.google.com/open?id=1VFYVztuIF65azsTeOpCTESUVORvwXEbv); Cited in [World Development Report 2012](https://openknowledge.worldbank.org/entities/publication/51c285f6-0200-590c-97d3-95b937be3271); Coverage: [The Wire](https://thewire.in/225464/an-unpleasant-truth-underlies-gender-discrimination-in-india/)
 
 9. **[Culture Clash or Culture Club: National Identity in Britain]({{ "/assets/papers/manning-roy-2010-culture-clash-ej.pdf" | relative_url }})** (with Alan Manning). *[Economic Journal](https://academic.oup.com/ej)* 120(542): F72–F100, 2010.
    - Coverage: [The Economist](http://www.economist.com/node/9587664)
