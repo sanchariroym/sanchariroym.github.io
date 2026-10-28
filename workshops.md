@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Workshops | Sanchari Roy
-heading: Workshops
+title: Workshops
 permalink: /workshops/
 description: Workshops organised by Sanchari Roy at the University of Exeter, including the Diversity and Human Capital Workshop series.
 ---

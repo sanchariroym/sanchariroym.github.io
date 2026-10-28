@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Media and Policy Writing | Sanchari Roy
-heading: Media and Policy Writing
+title: Media and Policy Writing
 permalink: /media-and-policy-writing/
 description: Articles, blogs and policy briefs by Sanchari Roy in The Guardian, The Wire, Ideas for India, IGC and King's College London on COVID-19, women's mental health, inheritance rights and the Gujarat growth model.
 ---

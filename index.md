@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Sanchari Roy | Economist, University of Exeter
 description: >-
   Sanchari Roy is Associate Professor of Economics at the University of Exeter, working on
   gender, development economics and psychology, including women's empowerment, mental health

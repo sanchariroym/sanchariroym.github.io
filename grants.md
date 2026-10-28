@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Research Grants | Sanchari Roy
-heading: Grants
+title: Grants
 permalink: /grants/
 description: Research grants held by Sanchari Roy, including Wellcome Trust awards for the ALIVE adolescent mental health trials, ESRC-FCDO, British Academy and IGC funding.
 ---

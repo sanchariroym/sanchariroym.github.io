@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Teaching | Sanchari Roy
-heading: Teaching
+title: Teaching
 permalink: /teaching/
 description: Teaching by Sanchari Roy at the University of Exeter, including BEE1025 Statistics for Business and Management.
 ---
