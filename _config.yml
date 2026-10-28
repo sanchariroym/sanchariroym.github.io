@@ -1,0 +1,45 @@
+# Site settings. Change `url` to https://www.sanchariroy.com when the domain is switched over.
+title: Sanchari Roy
+tagline: Associate Professor of Economics, University of Exeter
+description: >-
+  Sanchari Roy is Associate Professor of Economics at the University of Exeter.
+  Her research on gender, development economics and psychology uses randomised
+  trials and natural experiments in India and beyond.
+url: https://sanchariroym.github.io
+baseurl: ""
+lang: en-GB
+author: Sanchari Roy
+logo: /assets/images/sanchari-roy.jpg
+
+social:
+  name: Sanchari Roy
+  links:
+    - https://experts.exeter.ac.uk/41350-sanchari-roy
+    - https://scholar.google.co.uk/citations?user=dyCbhI8AAAAJ&hl=en
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Grants
+    url: /grants/
+  - title: Teaching
+    url: /teaching/
+  - title: Workshops
+    url: /workshops/
+  - title: Media and Policy
+    url: /media-and-policy-writing/
+  - title: CV
+    url: https://drive.google.com/file/d/1fmpa1Cp8lwy7VyZmSIQCLn-bgXdjEzya/view
+
+exclude:
+  - README.md
