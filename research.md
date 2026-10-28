@@ -45,32 +45,37 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
 
 4. **[Strengthening Self-regulation and Reducing Poverty to Prevent Adolescent Depression and Anxiety: Rationale, Approach and Methods of the ALIVE Interdisciplinary Research Collaboration in Colombia, Nepal and South Africa](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/strengthening-selfregulation-and-reducing-poverty-to-prevent-adolescent-depression-and-anxiety-rationale-approach-and-methods-of-the-alive-interdisciplinary-research-collaboration-in-colombia-nepal-and-south-africa/936A721853C68B8F7E229AF0099CA26E)** (with Crick Lund et al.). *[Epidemiology and Psychiatric Sciences](https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences)* 32: e69, 2023.
 
-5. **[Discriminatory Laws against Women: A Review of the Evidence](https://openknowledge.worldbank.org/entities/publication/e4800134-0d9f-5fad-bfd4-64a2cf802392)**. World Bank Policy Research Working Paper 8719, 2019. Prepared for the World Bank's *Women, Business and the Law Report 2019*.
+5. **[Two States: A Comparative Analysis of Gujarat and Bihar's Growth Performance Between 1981–2011](https://drive.google.com/open?id=0B_pReSKjC0n1YmRKQnl6bEFlSjA)** (with Maitreesh Ghatak). *[India Review](https://www.tandfonline.com/loi/find20)* 14(1): 26–42, 2015.
 
-6. **[Two States: A Comparative Analysis of Gujarat and Bihar's Growth Performance Between 1981–2011](https://drive.google.com/open?id=0B_pReSKjC0n1YmRKQnl6bEFlSjA)** (with Maitreesh Ghatak). *[India Review](https://www.tandfonline.com/loi/find20)* 14(1): 26–42, 2015.
-
-7. **[Did Gujarat Switch to a Higher Growth Trajectory Relative to India under Modi? A Rejoinder](https://drive.google.com/open?id=0B_pReSKjC0n1ZE02M1h2dzdsYjg)** (with Maitreesh Ghatak). *[Economic and Political Weekly](https://www.epw.in/)*, 2014.
+6. **[Did Gujarat Switch to a Higher Growth Trajectory Relative to India under Modi? A Rejoinder](https://drive.google.com/open?id=0B_pReSKjC0n1ZE02M1h2dzdsYjg)** (with Maitreesh Ghatak). *[Economic and Political Weekly](https://www.epw.in/)*, 2014.
    - Coverage: [BBC News](http://www.bbc.co.uk/news/world-asia-41988785), [The Wire](https://thewire.in/rights/ahmedabad-wall-trump-visit)
 
-8. **[Did Gujarat's Growth Rate Accelerate under Modi?](https://drive.google.com/open?id=0B_pReSKjC0n1cEJlVG9iaV9KV0k)** (with Maitreesh Ghatak). *[Economic and Political Weekly](https://www.epw.in/)*, 2014.
+7. **[Did Gujarat's Growth Rate Accelerate under Modi?](https://drive.google.com/open?id=0B_pReSKjC0n1cEJlVG9iaV9KV0k)** (with Maitreesh Ghatak). *[Economic and Political Weekly](https://www.epw.in/)*, 2014.
    - Coverage: [NDTV](https://www.ndtv.com/elections-news/truth-vs-hype-contenders-2014-the-making-of-modi-wave-561267)
 
-9. **[Implementing Health Insurance for the Poor: The Rollout of RSBY in Karnataka, India](https://drive.google.com/open?id=0B_pReSKjC0n1dFVNMHQxOEFmV3M)** (with D. Rajasekhar, Erlend Berg, Maitreesh Ghatak and R. Manjula). *[Economic and Political Weekly](https://www.epw.in/)*, 2011.
+8. **[Implementing Health Insurance for the Poor: The Rollout of RSBY in Karnataka, India](https://drive.google.com/open?id=0B_pReSKjC0n1dFVNMHQxOEFmV3M)** (with D. Rajasekhar, Erlend Berg, Maitreesh Ghatak and R. Manjula). *[Economic and Political Weekly](https://www.epw.in/)*, 2011.
    - Coverage: [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/Hospitals-unable-to-treat-patients-under-insurance-scheme/article15597613.ece), [Deccan Herald](http://www.deccanherald.com/content/121308/bpl-insurance-scheme-not-80.html), [The Hindu Business Line](http://www.thehindubusinessline.com/todays-paper/tp-economy/BPL-health-insurance-fails-to-take-off-in-Karnataka/article20022014.ece), [Business Standard](http://www.business-standard.com/article/finance/hospitals-unprepared-for-national-insurance-scheme-110122100041_1.html), [Business India](http://www.rsby.gov.in/NewsImage/868%20Spl%20Report%20%28RSBY%29.pdf)
 
 ## Book chapters and monographs
 
-- **[Women's Inheritance Rights in India: Can Legal Reform Precipitate Social Change?](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003477938-9/women-inheritance-rights-india-sanchari-roy)** In *[Revisiting Inequality: Theoretical and Methodological Advances with Empirical Examples from India](https://www.routledge.com/Revisiting-Inequality-Theoretical-and-Methodological-Advances-with-Empirical-Examples-from-India/Chakraborty-Mukhopadhyay/p/book/9781032348247)*, edited by A. Chakraborty and S. Mukhopadhyay. Routledge India, 2024, pp. 158–166.
-- **Chronic Poverty: A Conceptual Framework**. VHAI Press, 2005.
+1. **[Women's Inheritance Rights in India: Can Legal Reform Precipitate Social Change?](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003477938-9/women-inheritance-rights-india-sanchari-roy)** In *[Revisiting Inequality: Theoretical and Methodological Advances with Empirical Examples from India](https://www.routledge.com/Revisiting-Inequality-Theoretical-and-Methodological-Advances-with-Empirical-Examples-from-India/Chakraborty-Mukhopadhyay/p/book/9781032348247)*, edited by A. Chakraborty and S. Mukhopadhyay. Routledge India, 2024, pp. 158–166.
+
+2. **Chronic Poverty: A Conceptual Framework**. VHAI Press, 2005.
 
 ## Working papers
 
-- **Mothers and Daughters: Inheritance Reforms, Bargaining Power and Child Education in India**. Draft forthcoming.
+**[Discriminatory Laws against Women: A Review of the Evidence](https://openknowledge.worldbank.org/entities/publication/e4800134-0d9f-5fad-bfd4-64a2cf802392)**. World Bank Policy Research Working Paper 8719, 2019. Prepared for the World Bank's *[Women, Business and the Law Report 2019](https://openknowledge.worldbank.org/entities/publication/1404c2b8-861a-5c5f-af2a-b6034a9d8399)*.
+
+**Mothers and Daughters: Inheritance Reforms, Bargaining Power and Child Education in India**. Draft forthcoming.
 
 ## Work in progress
 
-- Disadvantage and Parental Practices (with Patricio Dalton, Sayantan Ghosal, Seemanti Ghosh and Theodore Koutmeridis)
-- Caste and Board Gender Diversity in India (with Deepti Sharma)
-- Caste Matching and Child Disadvantage (with Erlend Berg), data collection ongoing
-- Loneliness among the Elderly (with Anandi Mani, Alison Andrews and Vatsal Khandelwal)
-- Psychological Empowerment of Women's Self-help Groups in India (with Sayantan Ghosal, Anandi Mani and Sandip Mitra)
+Disadvantage and Parental Practices (with Patricio Dalton, Sayantan Ghosal, Seemanti Ghosh and Theodore Koutmeridis)
+
+Caste and Board Gender Diversity in India (with Deepti Sharma)
+
+Caste Matching and Child Disadvantage (with Erlend Berg)
+
+Loneliness among the Elderly (with Anandi Mani, Alison Andrews and Vatsal Khandelwal)
+
+Psychological Empowerment of Women's Self-help Groups in India (with Sayantan Ghosal, Anandi Mani and Sandip Mitra)
