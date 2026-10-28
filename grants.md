@@ -2,7 +2,7 @@
 layout: default
 title: Grants
 permalink: /grants/
-description: Research grants held by Sanchari Roy, including Wellcome Trust awards for the ALIVE adolescent mental health trials, ESRC-FCDO, British Academy and IGC funding.
+description: Research grants held by Sanchari Roy, including Wellcome Trust awards for the ALIVE adolescent mental health trials, ESRC, British Academy and IGC funding.
 ---
 
 <div class="grant">
@@ -16,13 +16,13 @@ description: Research grants held by Sanchari Roy, including Wellcome Trust awar
 </div>
 
 <div class="grant">
-<h3>Disadvantage and Participation in Accountability Processes in Indian Schools</h3>
-<p class="meta">ESRC-FCDO; 2020–2023; £573,000; Co-Investigator; PI: Sayantan Ghosal (Glasgow)</p>
+<h3>Disadvantage and Participation in Accountability Processes: Theory and Evidence from School Development and Management Committees in Karnataka, India</h3>
+<p class="meta">ESRC; 2020–2023; £572,000; Co-Investigator; PI: Sayantan Ghosal (Glasgow)</p>
 </div>
 
 <div class="grant">
 <h3>Trump's Trade War, Structural Change and Gender Inequality in Vietnam</h3>
-<p class="meta">British Academy/Leverhulme Small Research Grant; 2021–2023; £10,000; Co-Investigator; PI: Pierre-Louis Vezina (King's College London)</p>
+<p class="meta">British Academy/Leverhulme Small Research Grant; 2021–2023; £14,000; Co-Investigator; PI: Pierre-Louis Vezina (King's College London)</p>
 </div>
 
 <div class="grant">
