@@ -7,6 +7,9 @@ description: >-
   trials and natural experiments in India and beyond.
 url: https://sanchariroym.github.io
 baseurl: ""
+
+# While true, search engines are asked not to list the site. Set to false at launch.
+draft: true
 lang: en-GB
 author: Sanchari Roy
 logo: /assets/images/sanchari-roy.jpg
