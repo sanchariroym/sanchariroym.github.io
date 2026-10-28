@@ -27,7 +27,7 @@ description: Articles, blogs and policy briefs by Sanchari Roy in The Guardian, 
 9. [Lockdown survey: 85% of respondents among Delhi's poor earned zero wages from main job](https://thewire.in/rights/urban-poor-lockdown-phone-survey) (with Farzana Afridi and Amrita Dhillon). *The Wire*, 11 May 2020.
 
 10. [How has Covid-19 crisis affected the urban poor? Findings from a phone survey I](https://www.ideasforindia.in/topics/poverty-inequality/how-has-the-covid-19-crisis-affected-the-urban-poor-findings-from-a-phone-survey.html) (with Farzana Afridi and Amrita Dhillon). *Ideas for India*, 23 April 2020.
-    - [Hindi version](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-hindi.html) · Video on [Facebook](https://www.facebook.com/IdeasforIndiaI4I/videos/834391957067588/) and [Twitter](https://twitter.com/Ideas4India/status/1259801172992376833)
+    - [Hindi version](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-hindi.html); Video on [Facebook](https://www.facebook.com/IdeasforIndiaI4I/videos/834391957067588/) and [Twitter](https://twitter.com/Ideas4India/status/1259801172992376833)
 
 11. [A phone survey reveals how the COVID-19 crisis has affected the urban poor](https://thewire.in/rights/how-has-covid-19-crisis-affected-the-urban-poor) (with Farzana Afridi and Amrita Dhillon). *The Wire*, 23 April 2020.
 
@@ -37,7 +37,7 @@ description: Articles, blogs and policy briefs by Sanchari Roy in The Guardian, 
 13. [Why so many economists are disillusioned with the 'Gujarat model'](https://thewire.in/200492/narendra-modi-gujarat-model-economists/) (with Maitreesh Ghatak). *The Wire*, 29 November 2017.
 
 14. [A look in the mirror](https://www.outlookindia.com/magazine/story/a-look-in-the-mirror/289889) (with Maitreesh Ghatak). *Outlook*, 31 March 2014.
-    - Longer versions in [Ideas for India](https://www.ideasforindia.in/topics/governance/mirror-mirror-on-the-wall-which-is-the-most-dynamic-state-of-them-all.html) and the [IGC blog](https://www.theigc.org/blog/mirror-mirror-on-the-wall-which-is-the-most-dynamic-state-of-them-all/) · Press mentions: [The Conversation](https://theconversation.com/modis-reputation-for-governance-miracles-is-built-on-shaky-ground-25722), [Dawn](https://www.dawn.com/news/1218945)
+    - Longer versions in [Ideas for India](https://www.ideasforindia.in/topics/governance/mirror-mirror-on-the-wall-which-is-the-most-dynamic-state-of-them-all.html) and the [IGC blog](https://www.theigc.org/blog/mirror-mirror-on-the-wall-which-is-the-most-dynamic-state-of-them-all/); Press mentions: [The Conversation](https://theconversation.com/modis-reputation-for-governance-miracles-is-built-on-shaky-ground-25722), [Dawn](https://www.dawn.com/news/1218945)
 
 15. [Gujarat model of development and other growth stories](https://www.dnaindia.com/analysis/column-gujarat-model-of-development-and-other-growth-stories-1973622) (with Maitreesh Ghatak). *DNA*, 31 March 2014.
 

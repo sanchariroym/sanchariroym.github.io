@@ -4,14 +4,14 @@ description: >-
   Sanchari Roy is Associate Professor of Economics at the University of Exeter, working on
   gender, development economics and psychology, including women's empowerment, mental health
   and inheritance rights in India.
-hide_title: true
 ---
 
 <div class="intro">
-  <img src="{{ '/assets/images/sanchari-roy.jpg' | relative_url }}" alt="Portrait of Sanchari Roy">
+  <div class="photo"><img src="{{ '/assets/images/sanchari-roy.jpg' | relative_url }}" alt="Portrait of Sanchari Roy"></div>
   <div>
-    <h1>Sanchari Roy</h1>
-
+    <h1><span>Sanchari Roy</span></h1>
+    <p class="role">Associate Professor of Economics, University of Exeter</p>
+    <div class="bio">
     <p>Sanchari Roy is Associate Professor of Economics and Director of the MRes/PhD Programme at the
     <a href="https://business-school.exeter.ac.uk/about/departments/economics/">Department of Economics</a>,
     <a href="https://business-school.exeter.ac.uk">University of Exeter</a>.
@@ -23,7 +23,7 @@ hide_title: true
     studying how laws, norms and beliefs shape the lives of women and their children, using experimental
     and quasi-experimental methods in India, Vietnam, Colombia, Nepal and South Africa. Sanchari has also
     taught at King's College London, the University of Warwick and the University of Sussex.</p>
-
+    </div>
     <p class="links">
       <a href="https://experts.exeter.ac.uk/41350-sanchari-roy">Exeter profile</a>
       <a href="https://scholar.google.co.uk/citations?user=dyCbhI8AAAAJ&amp;hl=en">Google Scholar</a>

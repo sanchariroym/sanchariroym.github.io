@@ -6,33 +6,33 @@
   {% seo %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% include person-schema.html %}
 </head>
-<body>
-  <header class="site-header">
-    <div class="wrap">
-      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+<body class="{% if page.url == '/' %}home{% else %}inner{% endif %}">
+  <div class="page">
+    <header class="site-header">
+      <a class="mark" href="{{ '/' | relative_url }}">{{ site.title }}</a>
       <nav aria-label="Main">
-        {% for item in site.nav %}
+        {% for item in site.nav %}{% unless item.url == '/' %}
           {% assign external = item.url | slice: 0, 4 %}
           <a href="{% if external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"
              {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.title }}</a>
-        {% endfor %}
+        {% endunless %}{% endfor %}
       </nav>
-    </div>
-  </header>
+    </header>
 
-  <main class="wrap">
-    {% unless page.hide_title %}<h1>{{ page.heading | default: page.title }}</h1>{% endunless %}
-    {{ content }}
-  </main>
+    <main class="content">
+      {% unless page.url == '/' %}<h1>{{ page.title }}</h1>{% endunless %}
+      {{ content }}
+    </main>
 
-  <footer class="wrap site-footer">
-    <p>Sanchari Roy · Department of Economics, University of Exeter Business School ·
-      <a href="https://experts.exeter.ac.uk/41350-sanchari-roy">Exeter profile</a> ·
-      <a href="https://scholar.google.co.uk/citations?user=dyCbhI8AAAAJ&amp;hl=en">Google Scholar</a></p>
-  </footer>
+    <footer class="site-footer">
+      <p>Department of Economics, University of Exeter Business School.
+        <a href="https://experts.exeter.ac.uk/41350-sanchari-roy">Exeter profile</a>
+        <a href="https://scholar.google.co.uk/citations?user=dyCbhI8AAAAJ&amp;hl=en">Google Scholar</a></p>
+    </footer>
+  </div>
 </body>
 </html>
