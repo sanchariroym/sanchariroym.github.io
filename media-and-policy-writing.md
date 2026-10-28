@@ -19,28 +19,26 @@ description: Articles, blogs and policy briefs by Sanchari Roy in The Guardian, 
 
 6. [Networks, livelihoods and well-being in a pandemic: A panel study using matched husband-wife-friends data in urban India](https://www.theigc.org/project/networks-livelihoods-and-well-being-in-a-pandemic-a-panel-study-using-matched-husband-wife-friends-data-in-urban-india/#outputs) (with Farzana Afridi and Amrita Dhillon). IGC policy brief, 22 March 2021.
 
-7. [Sex workers, stigma and self-image: Evidence from Kolkata brothels](https://www.acume.org/research/sex-workers-stigma-and-self-image-evidence-from-kolkata-brothels/). acume.org, 2020.
-
-8. [How has Covid-19 crisis affected urban poor? Findings from a phone survey II](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-ii.html) (with Farzana Afridi and Amrita Dhillon). *Ideas for India*, 11 May 2020.
+7. [How has Covid-19 crisis affected urban poor? Findings from a phone survey II](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-ii.html) (with Farzana Afridi and Amrita Dhillon). *Ideas for India*, 11 May 2020.
    - [Hindi version](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-ii-hindil.html)
 
-9. [Lockdown survey: 85% of respondents among Delhi's poor earned zero wages from main job](https://thewire.in/rights/urban-poor-lockdown-phone-survey) (with Farzana Afridi and Amrita Dhillon). *The Wire*, 11 May 2020.
+8. [Lockdown survey: 85% of respondents among Delhi's poor earned zero wages from main job](https://thewire.in/rights/urban-poor-lockdown-phone-survey) (with Farzana Afridi and Amrita Dhillon). *The Wire*, 11 May 2020.
 
-10. [How has Covid-19 crisis affected the urban poor? Findings from a phone survey I](https://www.ideasforindia.in/topics/poverty-inequality/how-has-the-covid-19-crisis-affected-the-urban-poor-findings-from-a-phone-survey.html) (with Farzana Afridi and Amrita Dhillon). *Ideas for India*, 23 April 2020.
-    - [Hindi version](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-hindi.html); Video on [Facebook](https://www.facebook.com/IdeasforIndiaI4I/videos/834391957067588/) and [Twitter](https://twitter.com/Ideas4India/status/1259801172992376833)
+9. [How has Covid-19 crisis affected the urban poor? Findings from a phone survey I](https://www.ideasforindia.in/topics/poverty-inequality/how-has-the-covid-19-crisis-affected-the-urban-poor-findings-from-a-phone-survey.html) (with Farzana Afridi and Amrita Dhillon). *Ideas for India*, 23 April 2020.
+   - [Hindi version](https://www.ideasforindia.in/topics/poverty-inequality/how-has-covid-19-crisis-affected-urban-poor-findings-from-a-phone-survey-hindi.html); Video on [Facebook](https://www.facebook.com/IdeasforIndiaI4I/videos/834391957067588/) and [Twitter](https://twitter.com/Ideas4India/status/1259801172992376833)
 
-11. [A phone survey reveals how the COVID-19 crisis has affected the urban poor](https://thewire.in/rights/how-has-covid-19-crisis-affected-the-urban-poor) (with Farzana Afridi and Amrita Dhillon). *The Wire*, 23 April 2020.
+10. [A phone survey reveals how the COVID-19 crisis has affected the urban poor](https://thewire.in/rights/how-has-covid-19-crisis-affected-the-urban-poor) (with Farzana Afridi and Amrita Dhillon). *The Wire*, 23 April 2020.
 
-12. [Women's inheritance rights and son preference in India](https://www.ideasforindia.in/topics/social-identity/women-s-inheritance-rights-and-son-preference-in-india.html) (with Sonia Bhalotra and Rachel Brule). *Ideas for India*, 29 October 2018.
+11. [Women's inheritance rights and son preference in India](https://www.ideasforindia.in/topics/social-identity/women-s-inheritance-rights-and-son-preference-in-india.html) (with Sonia Bhalotra and Rachel Brule). *Ideas for India*, 29 October 2018.
     - [Hindi version](https://www.ideasforindia.in/topics/social-identity/women-s-inheritance-rights-and-son-preference-in-india-hindi.html)
 
-13. [Why so many economists are disillusioned with the 'Gujarat model'](https://thewire.in/200492/narendra-modi-gujarat-model-economists/) (with Maitreesh Ghatak). *The Wire*, 29 November 2017.
+12. [Why so many economists are disillusioned with the 'Gujarat model'](https://thewire.in/200492/narendra-modi-gujarat-model-economists/) (with Maitreesh Ghatak). *The Wire*, 29 November 2017.
 
-14. [A look in the mirror](https://www.outlookindia.com/magazine/story/a-look-in-the-mirror/289889) (with Maitreesh Ghatak). *Outlook*, 31 March 2014.
+13. [A look in the mirror](https://www.outlookindia.com/magazine/story/a-look-in-the-mirror/289889) (with Maitreesh Ghatak). *Outlook*, 31 March 2014.
     - Longer versions in [Ideas for India](https://www.ideasforindia.in/topics/governance/mirror-mirror-on-the-wall-which-is-the-most-dynamic-state-of-them-all.html) and the [IGC blog](https://www.theigc.org/blog/mirror-mirror-on-the-wall-which-is-the-most-dynamic-state-of-them-all/); Press mentions: [The Conversation](https://theconversation.com/modis-reputation-for-governance-miracles-is-built-on-shaky-ground-25722), [Dawn](https://www.dawn.com/news/1218945)
 
-15. [Gujarat model of development and other growth stories](https://www.dnaindia.com/analysis/column-gujarat-model-of-development-and-other-growth-stories-1973622) (with Maitreesh Ghatak). *DNA*, 31 March 2014.
+14. [Gujarat model of development and other growth stories](https://www.dnaindia.com/analysis/column-gujarat-model-of-development-and-other-growth-stories-1973622) (with Maitreesh Ghatak). *DNA*, 31 March 2014.
 
-16. [Modinomics: Do Narendra Modi's economic claims add up?](https://www.theguardian.com/commentisfree/2014/mar/13/modinomics-narendra-modi-india-bjp) (with Maitreesh Ghatak). *The Guardian*, 13 March 2014.
+15. [Modinomics: Do Narendra Modi's economic claims add up?](https://www.theguardian.com/commentisfree/2014/mar/13/modinomics-narendra-modi-india-bjp) (with Maitreesh Ghatak). *The Guardian*, 13 March 2014.
 
-17. [Culture clash or culture club? The identity and attitudes of immigrants in Britain](https://cep.lse.ac.uk/pubs/download/cp224.pdf). *CentrePiece*, Summer 2007.
+16. [Culture clash or culture club? The identity and attitudes of immigrants in Britain](https://cep.lse.ac.uk/pubs/download/cp224.pdf). *CentrePiece*, Summer 2007.
