@@ -7,7 +7,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
 
 ## Publications
 
-1. **[Social Networks, Gender Norms and Labour Supply: Experimental Evidence Using a Job Search Platform](https://drive.google.com/file/d/1QDcvMq6ydRU25n7kT13Spi4z9dKMU3a4/view)** (with Farzana Afridi, Amrita Dhillon and Nikita Sangwan). Accepted, *American Economic Journal: Applied Economics*.
+1. **[Social Networks, Gender Norms and Labour Supply: Experimental Evidence Using a Job Search Platform](https://drive.google.com/file/d/1QDcvMq6ydRU25n7kT13Spi4z9dKMU3a4/view)** (with Farzana Afridi, Amrita Dhillon and Nikita Sangwan). Accepted (undergoing data replication), *American Economic Journal: Applied Economics*.
 
 2. **[Trade Policy and Jobs in Vietnam: The Unintended Consequences of US–China Trade Tensions](https://drive.google.com/file/d/1kUyF7XqWalcFs1I3FmWTKQbdM0plS5xK/view)** (with Lorenzo Rotunno, Anri Sakakibara and Pierre-Louis Vezina). *[World Bank Economic Review](https://academic.oup.com/wber)*, June 2026.
    - Earlier [version](https://www.imf.org/en/Publications/WP/Issues/2024/12/23/Trade-Policy-and-Jobs-in-Vietnam-The-Unintended-Consequences-of-US-China-Trade-Tensions-559698): IMF Working Paper No. 2024/263; [Blog](https://www.kcl.ac.uk/news/trade-war-between-superpowers-provided-unexpected-boost-for-nation); Cited in [testimony before the US-China Economic and Security Review Commission](http://www.uscc.gov/sites/default/files/2024-03/Edmund_Malesky_Testimony.pdf)
@@ -39,7 +39,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
 
 1. **[Early Advantage to Adult Disadvantage: Comparative Analysis of Women's Outcomes over Life Cycle in West Bengal](https://drive.google.com/file/d/1ou76Zzlhn-CmNwbs4kiUhGpZtS7Yqa4D/view)**. *[Economic and Political Weekly](https://www.epw.in/)*, State Studies: West Bengal, 2026.
 
-2. **[Combining Self-Regulation and Poverty Reduction to Prevent Depression and Anxiety among Adolescents Experiencing Multi-dimensional Poverty in Colombia, Nepal and South Africa: Study Protocol of a Pilot 4-arm Cluster Randomised Controlled Trial](https://link.springer.com/article/10.1186/s40814-026-01858-y)** (with M. Jordans et al.). *Pilot and Feasibility Studies* 12: 113, 2026.
+2. **[Combining Self-Regulation and Poverty Reduction to Prevent Depression and Anxiety among Adolescents Experiencing Multi-dimensional Poverty in Colombia, Nepal and South Africa: Study Protocol of a Pilot 4-arm Cluster Randomised Controlled Trial](https://link.springer.com/article/10.1186/s40814-026-01858-y)** (with M. Jordans et al.). *[Pilot and Feasibility Studies](https://pilotfeasibilitystudies.biomedcentral.com/)* 12: 113, 2026.
 
 3. **[Poverty-reduction Interventions Combined with Psychological Interventions: A Systematic Literature Review](https://www.nature.com/articles/s41598-025-24736-8)** (with M. Tanski et al.). *[Scientific Reports](https://www.nature.com/srep/)* 15: 38829, 2025.
 
@@ -73,3 +73,4 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
 - Caste and Board Gender Diversity in India (with Deepti Sharma)
 - Caste Matching and Child Disadvantage (with Erlend Berg), data collection ongoing
 - Loneliness among the Elderly (with Anandi Mani, Alison Andrews and Vatsal Khandelwal)
+- Psychological Empowerment of Women's Self-help Groups in India (with Sayantan Ghosal, Anandi Mani and Sandip Mitra)
