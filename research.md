@@ -32,7 +32,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
    - [Working paper version](https://drive.google.com/open?id=1VFYVztuIF65azsTeOpCTESUVORvwXEbv); Cited in [World Development Report 2012](https://openknowledge.worldbank.org/entities/publication/51c285f6-0200-590c-97d3-95b937be3271); Coverage: [The Wire](https://thewire.in/225464/an-unpleasant-truth-underlies-gender-discrimination-in-india/)
 
 9. **[Culture Clash or Culture Club: National Identity in Britain]({{ "/assets/papers/manning-roy-2010-culture-clash-ej.pdf" | relative_url }})** (with Alan Manning). *[Economic Journal](https://academic.oup.com/ej)* 120(542): F72–F100, 2010.
-   - Coverage: [The Economist](http://www.economist.com/node/9587664)
+   - [Royal Economic Society media briefing](https://res.org.uk/mediabriefing/immigrants-ready-assimilation-of-british-identity-suggests-we-need-not-fear-a-culture-clash/); [CEP CentrePiece](https://cep.lse.ac.uk/pubs/download/cp224.pdf); Coverage: [The Economist](https://www.economist.com/britain/2007/08/02/stirring-the-melting-pot)
 
 10. **[Land Reform and Agricultural Productivity in India: A Review of the Evidence]({{ "/assets/papers/ghatak-roy-2007-land-reform-oxrep.pdf" | relative_url }})** (with Maitreesh Ghatak). *[Oxford Review of Economic Policy](https://academic.oup.com/oxrep)* 23(2): 251–269, 2007.
 
