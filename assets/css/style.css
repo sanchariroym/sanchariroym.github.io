@@ -33,7 +33,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .intro h1 { font: 500 clamp(2.4rem, 4.6vw, 3.8rem)/1.05 var(--display); letter-spacing: -0.01em; margin: 0.4rem 0 0.9rem; }
 .role { font-weight: 600; color: var(--accent); }
 .intro h1 { margin-bottom: 2.6rem; }
-.bio p { margin: 0 0 1.15rem; text-align: justify; hyphens: auto; }
+.bio p { margin: 0 0 1.15rem; text-align: justify; }
 .links { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; font: 500 0.95rem var(--display); border-top: 1px solid var(--line); padding-top: 1.1rem; margin-top: 2rem; }
 
 /* Inner pages */
