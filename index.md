@@ -26,7 +26,6 @@ description: >-
     <p class="links">
       <a href="https://experts.exeter.ac.uk/41350-sanchari-roy">Exeter profile</a>
       <a href="https://scholar.google.co.uk/citations?user=dyCbhI8AAAAJ&amp;hl=en">Google Scholar</a>
-      <a href="{{ '/assets/CV_SR.pdf' | relative_url }}">CV</a>
     </p>
   </div>
 </div>
