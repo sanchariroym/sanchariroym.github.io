@@ -1,10 +1,10 @@
-/* Palette: plain primrose with bottle-green links, same on every page */
+/* Palette: fresh spring lime fading from near-white at the top, leaf-green links */
 :root {
-  --paper: #FDF9E8;
-  --ink: #26292C;
+  --paper: #F2F9E0;
+  --ink: #232A26;
   --muted: #62676D;
-  --accent: #2E5A45;
-  --line: #ECE4C6;
+  --accent: #2B7048;
+  --line: #DAE8BC;
   --photo: #26292C;
   --display: "Newsreader", Georgia, serif;
   --serif: "Newsreader", Georgia, serif;
@@ -12,7 +12,7 @@
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--paper); color: var(--ink); font: 18px/1.7 var(--serif); }
+body { margin: 0; background: var(--paper) linear-gradient(180deg, #FBFEF5 0, var(--paper) 70vh) fixed; color: var(--ink); font: 18px/1.7 var(--serif); }
 a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { text-decoration-thickness: 2px; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
