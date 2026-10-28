@@ -26,28 +26,8 @@ description: >-
     <p class="links">
       <a href="https://experts.exeter.ac.uk/41350-sanchari-roy">Exeter profile</a>
       <a href="https://scholar.google.co.uk/citations?user=dyCbhI8AAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/sanchariroym/">LinkedIn</a>
+      <a href="https://x.com/sancharirm">X</a>
     </p>
   </div>
 </div>
-
-<section class="selected" aria-labelledby="selected-heading">
-  <h2 id="selected-heading">Selected papers</h2>
-  <div class="papers">
-    <article>
-      <h3><a href="{{ '/assets/papers/ghosal-et-al-2022-sex-workers-restat.pdf' | relative_url }}">Sex Workers, Stigma and Self-Image: Evidence from Kolkata Brothels</a></h3>
-      <p class="venue"><em>Review of Economics and Statistics</em>, 2022</p>
-      <p>A psychological programme to counter internalised stigma among sex workers in Kolkata improved their self-image, savings and visits to health clinics, with effects lasting well over a year.</p>
-    </article>
-    <article>
-      <h3><a href="https://docs.iza.org/dp11239.pdf">Women's Inheritance Rights Reform and Preference for Sons in India</a></h3>
-      <p class="venue"><em>Journal of Development Economics</em>, 2020</p>
-      <p>Giving women equal inheritance rights intensified son preference: after the reform, families whose first child was a daughter became less likely to have girls, pointing to more female foeticide.</p>
-    </article>
-    <article>
-      <h3><a href="https://drive.google.com/file/d/1QDcvMq6ydRU25n7kT13Spi4z9dKMU3a4/view">Social Networks, Gender Norms and Labour Supply: Experimental Evidence Using a Job Search Platform</a></h3>
-      <p class="venue">Accepted, <em>American Economic Journal: Applied Economics</em></p>
-      <p>Offering a job search platform to women and their friends in Delhi did not raise women's employment. Their husbands' jobs and earnings improved instead, and wives moved into home-based self-employment.</p>
-    </article>
-  </div>
-  <p class="all"><a href="{{ '/research/' | relative_url }}">All research</a></p>
-</section>
