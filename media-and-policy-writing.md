@@ -15,7 +15,7 @@ description: Articles, blogs and policy briefs by Sanchari Roy in The Guardian, 
 4. [Sex workers, stigma and self-image: Evidence from Kolkata brothels](https://www.ideasforindia.in/topics/social-identity/sex-workers-stigma-and-self-image-evidence-from-kolkata-s-brothels.html) (with Sayantan Ghosal, Smarajit Jana, Anandi Mani and Sandip Mitra). *[Ideas for India](https://www.ideasforindia.in)*, 13 May 2021.
    - [Hindi version](https://www.ideasforindia.in/topics/social-identity/sex-workers-stigma-and-self-image-evidence-from-kolkata-s-brothels-hindi.html)
 
-5. [The pandemic's gendered impact on livelihoods and well-being: Evidence from India](https://www.theigc.org/blog/the-pandemics-gendered-impact-on-livelihoods-and-wellbeing-evidence-from-india/) (with Farzana Afridi and Amrita Dhillon). *[IGC Blog](https://www.theigc.org/blogs)*, 22 March 2021.
+5. [The pandemic's gendered impact on livelihoods and well-being: Evidence from India](https://www.theigc.org/blog/the-pandemics-gendered-impact-on-livelihoods-and-wellbeing-evidence-from-india/) (with Farzana Afridi and Amrita Dhillon). *IGC Blog*, 22 March 2021.
 
 6. [Networks, livelihoods and well-being in a pandemic: A panel study using matched husband-wife-friends data in urban India](https://www.theigc.org/project/networks-livelihoods-and-well-being-in-a-pandemic-a-panel-study-using-matched-husband-wife-friends-data-in-urban-india/#outputs) (with Farzana Afridi and Amrita Dhillon). *[IGC Policy Brief](https://www.theigc.org/publications)*, 22 March 2021.
 
