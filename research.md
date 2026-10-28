@@ -60,7 +60,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
 
 ## Monographs
 
-1. **[Chronic Poverty: A Conceptual Framework](https://drive.google.com/file/d/1Q9Es5cOUh5ub8bMkDfUEBrVNVhLmHSEs/view)**. VHAI Press, 2005.
+1. **Chronic Poverty: A Conceptual Framework**. VHAI Press, 2005.
 
 ## Working papers
 
