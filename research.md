@@ -61,7 +61,7 @@ description: Publications and working papers by Sanchari Roy on gender, inherita
 
 1. **[Women's Inheritance Rights in India: Can Legal Reform Precipitate Social Change?](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003477938-9/women-inheritance-rights-india-sanchari-roy)** In *[Revisiting Inequality: Theoretical and Methodological Advances with Empirical Examples from India](https://www.routledge.com/Revisiting-Inequality-Theoretical-and-Methodological-Advances-with-Empirical-Examples-from-India/Chakraborty-Mukhopadhyay/p/book/9781032348247)*, edited by A. Chakraborty and S. Mukhopadhyay. Routledge India, 2024, pp. 158–166.
 
-2. **Chronic Poverty: A Conceptual Framework**. VHAI Press, 2005.
+2. **[Chronic Poverty: A Conceptual Framework](https://vhai.org/publications/icdhi-publications/chronic-poverty-a-conceptual-framework/)**. VHAI Press, 2005.
 
 ## Working papers
 
