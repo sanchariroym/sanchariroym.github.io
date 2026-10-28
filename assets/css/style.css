@@ -1,10 +1,10 @@
-/* Palette: pale grey with bottle-green links, same on every page */
+/* Palette: plain primrose with bottle-green links, same on every page */
 :root {
-  --paper: #F0F1F1;
+  --paper: #FDF9E8;
   --ink: #26292C;
   --muted: #62676D;
   --accent: #2E5A45;
-  --line: #D7DADC;
+  --line: #ECE4C6;
   --photo: #26292C;
   --display: "Newsreader", Georgia, serif;
   --serif: "Newsreader", Georgia, serif;
