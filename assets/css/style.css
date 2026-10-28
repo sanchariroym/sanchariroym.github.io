@@ -1,4 +1,4 @@
-/* Palette: light grey with bottle-green links; slightly darker grey on the home page */
+/* Palette: pale grey with bottle-green links, same on every page */
 :root {
   --paper: #F0F1F1;
   --ink: #26292C;
@@ -8,14 +8,6 @@
   --photo: #26292C;
   --display: "Newsreader", Georgia, serif;
   --serif: "Newsreader", Georgia, serif;
-}
-body.home {
-  --paper: #DCDEDF;
-  --ink: #222528;
-  --muted: #53585E;
-  --accent: #2E5A45;
-  --line: #C4C8CA;
-  --photo: #222528;
 }
 
 * { box-sizing: border-box; }
