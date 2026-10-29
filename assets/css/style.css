@@ -67,7 +67,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .grant h2.item { margin-bottom: 0.2rem; }
 
 /* Section links on long pages */
-.jump { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 1rem; margin: -0.5rem 0 0; }
+.jump { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 1em; font-weight: bold; margin: -0.5rem 0 0; }
 .content h2[id] { scroll-margin-top: 1.5rem; }
 html { scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
