@@ -16,10 +16,10 @@ description: "Publications and working papers by Sanchari Roy on gender, inherit
 
 ## Publications
 
-1. **[Social Networks, Gender Norms and Labour Supply: Experimental Evidence Using a Job Search Platform](https://drive.google.com/file/d/1QDcvMq6ydRU25n7kT13Spi4z9dKMU3a4/view)** (with Farzana Afridi, Amrita Dhillon and Nikita Sangwan). Accepted (undergoing data replication), *[American Economic Journal: Applied Economics](https://www.aeaweb.org/journals/app)*.
+1. **[Social Networks, Gender Norms and Labour Supply: Experimental Evidence Using a Job Search Platform]({{ "/assets/papers/afridi-dhillon-roy-sangwan-social-networks-aej-applied.pdf" | relative_url }})** (with Farzana Afridi, Amrita Dhillon and Nikita Sangwan). Accepted (undergoing data replication), *[American Economic Journal: Applied Economics](https://www.aeaweb.org/journals/app)*.
    - [IZA Discussion Paper No. 15767](https://docs.iza.org/dp15767.pdf), 2022; [CEPR working paper](https://cepr.org/system/files/publication-files/WP044.pdf)
 
-2. **[Trade Policy and Jobs in Vietnam: The Unintended Consequences of US–China Trade Tensions](https://drive.google.com/file/d/1kUyF7XqWalcFs1I3FmWTKQbdM0plS5xK/view)** (with Lorenzo Rotunno, Anri Sakakibara and Pierre-Louis Vezina). *[World Bank Economic Review](https://academic.oup.com/wber)*, June 2026.
+2. **[Trade Policy and Jobs in Vietnam: The Unintended Consequences of US–China Trade Tensions]({{ "/assets/papers/rotunno-roy-sakakibara-vezina-2026-trade-policy-vietnam-wber.pdf" | relative_url }})** (with Lorenzo Rotunno, Anri Sakakibara and Pierre-Louis Vezina). *[World Bank Economic Review](https://academic.oup.com/wber)*, June 2026.
    - [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2024/12/23/Trade-Policy-and-Jobs-in-Vietnam-The-Unintended-Consequences-of-US-China-Trade-Tensions-559698) No. 2024/263; [KCL Blog](https://www.kcl.ac.uk/news/trade-war-between-superpowers-provided-unexpected-boost-for-nation); Cited in [testimony before the US-China Economic and Security Review Commission](http://www.uscc.gov/sites/default/files/2024-03/Edmund_Malesky_Testimony.pdf)
 
 3. **[The Gendered Crisis: Livelihoods and Well-Being in India During COVID-19]({{ "/assets/papers/afridi-dhillon-roy-2023-gendered-crisis-fe.pdf" | relative_url }})** (with Farzana Afridi and Amrita Dhillon). *[Feminist Economics](https://www.tandfonline.com/toc/rfec20/current)* 29(3): 40–74, 2023.
