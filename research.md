@@ -35,7 +35,7 @@ description: "Publications and working papers by Sanchari Roy on gender, inherit
    - [Royal Economic Society media briefing](https://www.res.org.uk/resources-page/incentive-pay-helping-to-equalise-access-to-information-in-rural-india.html); [VoxDev talk](https://voxdev.org/topic/health/using-incentives-motivate-knowledge-agents-evidence-india)
 
 7. **[Hidden Human Capital: Self-efficacy, Aspirations and Achievements of Adolescent and Young Women in India]({{ "/assets/papers/roy-morton-bhattacharya-2018-hidden-human-capital-wd.pdf" | relative_url }})** (with Matthew Morton and Shrayana Bhattacharya). *[World Development](https://www.sciencedirect.com/journal/world-development)* 111: 161–180, 2018.
-   - [World Bank Policy Research Working Paper 7792](https://openknowledge.worldbank.org/entities/publication/501d4171-da8a-5fb0-bf8a-f165d3fdca2c)
+   - [World Bank Policy Research Working Paper](https://openknowledge.worldbank.org/entities/publication/501d4171-da8a-5fb0-bf8a-f165d3fdca2c)
 
 8. **[Empowering Women? Inheritance Rights, Female Education and Dowry Payments in India]({{ "/assets/papers/roy-2015-empowering-women-jde.pdf" | relative_url }})**. *[Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics)* 114(3): 233–251, 2015.
    - [Working paper version]({{ "/assets/papers/roy-2011-empowering-women-cage-wp.pdf" | relative_url }}); Cited in [World Development Report 2012](https://openknowledge.worldbank.org/entities/publication/51c285f6-0200-590c-97d3-95b937be3271); Coverage: [The Wire](https://thewire.in/225464/an-unpleasant-truth-underlies-gender-discrimination-in-india/)
