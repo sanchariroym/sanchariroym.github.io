@@ -20,7 +20,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .page { max-width: 72rem; margin: 0 auto; padding: 2rem clamp(1rem, 4vw, 3rem) 3rem; }
 
 /* Header */
-.site-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem 2rem; font: 500 1.22rem var(--display); }
+.site-header { min-height: 2.6rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem 2rem; font: 500 1.22rem var(--display); }
 .mark { font-weight: 500; color: var(--ink); text-decoration: none; }
 .home-icon { display: inline-flex; align-self: center; padding: 0.35rem; margin-left: -0.35rem; border-radius: 6px; }
 .home-icon:hover { color: var(--accent); }
