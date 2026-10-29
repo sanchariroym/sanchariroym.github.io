@@ -9,15 +9,15 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}?v=3" type="image/svg+xml">
-  <link rel="icon" href="{{ '/assets/images/favicon-32.png' | relative_url }}?v=3" sizes="32x32" type="image/png">
-  <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}?v=3">
+  <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}?v=4" type="image/svg+xml">
+  <link rel="icon" href="{{ '/assets/images/favicon-32.png' | relative_url }}?v=4" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}?v=4">
   {% include person-schema.html %}
 </head>
 <body class="{% if page.url == '/' %}home{% else %}inner{% endif %}">
   <div class="page">
     <header class="site-header">
-      <a class="mark monogram" href="{{ '/' | relative_url }}" aria-label="Sanchari Roy, home"><img src="{{ '/assets/images/padma.svg' | relative_url }}" alt="" width="46" height="46"></a>
+      <a class="mark monogram" href="{{ '/' | relative_url }}" aria-label="Sanchari Roy, home"><img src="{{ '/assets/images/padma.svg' | relative_url }}?v=4" alt="" width="46" height="46"></a>
       <nav aria-label="Main">
         {% for item in site.nav %}{% unless item.url == '/' %}
           {% assign external = item.url | slice: 0, 4 %}
