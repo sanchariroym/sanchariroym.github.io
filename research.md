@@ -17,7 +17,7 @@ description: "Publications and working papers by Sanchari Roy on gender, inherit
 ## Publications
 
 1. **[Social Networks, Gender Norms and Labor Supply: Experimental Evidence Using a Job Search Platform]({{ "/assets/papers/afridi-dhillon-roy-sangwan-social-networks-aej-applied.pdf" | relative_url }})** (with Farzana Afridi, Amrita Dhillon and Nikita Sangwan). Accepted (undergoing data replication), *[American Economic Journal: Applied Economics](https://www.aeaweb.org/journals/app)*.
-   - [IZA Discussion Paper No. 15767](https://docs.iza.org/dp15767.pdf); [CEPR working paper](https://cepr.org/system/files/publication-files/WP044.pdf)
+   - [IZA Discussion Paper](https://docs.iza.org/dp15767.pdf); [CEPR working paper](https://cepr.org/system/files/publication-files/WP044.pdf)
 
 2. **[Trade Policy and Jobs in Vietnam: The Unintended Consequences of US–China Trade Tensions]({{ "/assets/papers/rotunno-roy-sakakibara-vezina-2026-trade-policy-vietnam-wber.pdf" | relative_url }})** (with Lorenzo Rotunno, Anri Sakakibara and Pierre-Louis Vezina). *[World Bank Economic Review](https://academic.oup.com/wber)*, June 2026.
    - [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2024/12/23/Trade-Policy-and-Jobs-in-Vietnam-The-Unintended-Consequences-of-US-China-Trade-Tensions-559698); [KCL Blog](https://www.kcl.ac.uk/news/trade-war-between-superpowers-provided-unexpected-boost-for-nation); Cited in [testimony before the US-China Economic and Security Review Commission](http://www.uscc.gov/sites/default/files/2024-03/Edmund_Malesky_Testimony.pdf)
