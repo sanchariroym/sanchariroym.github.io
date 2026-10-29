@@ -28,7 +28,7 @@ description: "Research grants held by Sanchari Roy, including Wellcome Trust awa
 
 <div class="grant">
 <h2 class="item">Assessing the Impact of a Psychological Empowerment Programme for Self-Help Groups in India</h2>
-<p class="meta">King's College London Faculty Research Fund (competitive); 2021–2022; £13,000; Principal Investigator</p>
+<p class="meta">King's College London Faculty Research Fund (competitive); 2021–2022; £13,000; PI</p>
 </div>
 
 <div class="grant">
@@ -38,12 +38,12 @@ description: "Research grants held by Sanchari Roy, including Wellcome Trust awa
 
 <div class="grant">
 <h2 class="item">Disentangling Channels of Information Dissemination in Healthcare Delivery in Rural India</h2>
-<p class="meta">King's College London Research Fund (competitive); 2018–2019; £10,000; Principal Investigator</p>
+<p class="meta">King's College London Research Fund (competitive); 2018–2019; £10,000; PI</p>
 </div>
 
 <div class="grant">
 <h2 class="item">Gender Norms, Sexual Violence and Education in India</h2>
-<p class="meta">British Academy/Leverhulme Small Research Grant; 2016–2018; £9,800; Principal Investigator</p>
+<p class="meta">British Academy/Leverhulme Small Research Grant; 2016–2018; £9,800; PI</p>
 </div>
 
 <div class="grant">
