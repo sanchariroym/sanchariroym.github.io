@@ -1,15 +1,15 @@
-# Site settings. Change `url` to https://www.sanchariroy.com when the domain is switched over.
+# Site settings
 title: Sanchari Roy
 tagline: Economist, University of Exeter
 description: >-
   Sanchari Roy is Associate Professor of Economics at the University of Exeter.
   Her research on gender, development economics and psychology uses randomised
   trials and natural experiments in India and beyond.
-url: https://sanchariroym.github.io
+url: https://www.sanchariroy.com
 baseurl: ""
 
-# While true, search engines are asked not to list the site. Set to false at launch.
-draft: true
+# While true, search engines are asked not to list the site.
+draft: false
 lang: en-GB
 author: Sanchari Roy
 logo: /assets/images/sanchari-roy.jpg
