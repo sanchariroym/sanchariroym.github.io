@@ -17,7 +17,7 @@
 <body class="{% if page.url == '/' %}home{% else %}inner{% endif %}">
   <div class="page">
     <header class="site-header">
-      <a class="mark home-icon" href="{{ '/' | relative_url }}" aria-label="Home"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.5 9v11h13V9" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M10 20v-6h4v6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg></a>
+      <a class="mark monogram" href="{{ '/' | relative_url }}" aria-label="Sanchari Roy, home">SR</a>
       <nav aria-label="Main">
         {% for item in site.nav %}{% unless item.url == '/' %}
           {% assign external = item.url | slice: 0, 4 %}
