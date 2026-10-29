@@ -61,7 +61,8 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .content li > ul a:hover { color: var(--accent); }
 .meta { font: 0.88rem/1.5 var(--display); color: var(--muted); margin: 0.15rem 0 0; }
 .grant { margin-bottom: 1.6rem; }
-.grant h3 { margin-bottom: 0.2rem; }
+.content h2.item { font: 500 1.15rem/1.4 var(--display); margin: 1.75rem 0 0.25rem; padding: 0; border: 0; }
+.grant h2.item { margin-bottom: 0.2rem; }
 
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); margin-top: 5rem; padding-top: 1rem; font: 0.85rem/1.6 var(--display); color: var(--muted); }

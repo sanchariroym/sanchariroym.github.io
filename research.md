@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Research
 permalink: /research/
-description: Publications and working papers by Sanchari Roy on gender, inheritance rights, son preference, stigma and self-image, women's labour supply, mental health and trade policy, in the REStat, Economic Journal, JDE and World Bank Economic Review.
+title: "Research on Gender, Development and Psychology"
+heading: Research
+description: "Publications and working papers by Sanchari Roy on gender, inheritance rights, son preference, stigma, women's work and mental health in India and beyond."
 ---
 
 ## Publications

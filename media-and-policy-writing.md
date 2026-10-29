@@ -2,7 +2,7 @@
 layout: default
 title: Media and Policy Writing
 permalink: /media-and-policy-writing/
-description: Articles, blogs and policy briefs by Sanchari Roy in The Guardian, The Wire, Ideas for India, IGC and King's College London on COVID-19, women's mental health, inheritance rights and the Gujarat growth model.
+description: "Articles and policy briefs by Sanchari Roy in The Guardian, The Wire and Ideas for India on COVID-19, women's well-being, inheritance rights and growth."
 ---
 
 1. [Mental health crisis deepened in India during Covid-19, especially for women](https://www.kcl.ac.uk/mental-health-crisis-deepened-in-india-during-devastating-second-wave-especially-for-women). King's Spotlight series, 10 May 2022.
