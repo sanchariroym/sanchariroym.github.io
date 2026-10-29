@@ -66,13 +66,19 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .content h2.item { font: 500 1.15rem/1.4 var(--display); margin: 1.75rem 0 0.25rem; padding: 0; border: 0; }
 .grant h2.item { margin-bottom: 0.2rem; }
 
+/* Section links on long pages */
+.jump { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 1rem; margin: -0.5rem 0 0; }
+.content h2[id] { scroll-margin-top: 1.5rem; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); margin-top: 5rem; padding-top: 1rem; font: 0.85rem/1.6 var(--display); color: var(--muted); }
 .site-footer a { margin-left: 1rem; }
 
 @media (max-width: 760px) {
   .intro { grid-template-columns: 1fr; margin-top: 2.5rem; }
-  .photo { max-width: 17rem; }
+  .photo { max-width: 17rem; margin: 0 auto; width: 100%; }
   .papers { grid-template-columns: 1fr; gap: 1.75rem; }
   .site-footer a { margin: 0 1rem 0 0; display: inline-block; }
 }

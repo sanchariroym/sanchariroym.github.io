@@ -6,6 +6,14 @@ heading: Research
 description: "Publications and working papers by Sanchari Roy on gender, inheritance rights, son preference, stigma, women's work and mental health in India and beyond."
 ---
 
+<nav class="jump" aria-label="Sections on this page">
+  <a href="#publications">Publications</a>
+  <a href="#other-publications">Other publications</a>
+  <a href="#book-chapters-and-monographs">Book chapters and monographs</a>
+  <a href="#working-papers">Working papers</a>
+  <a href="#work-in-progress">Work in progress</a>
+</nav>
+
 ## Publications
 
 1. **[Social Networks, Gender Norms and Labour Supply: Experimental Evidence Using a Job Search Platform](https://drive.google.com/file/d/1QDcvMq6ydRU25n7kT13Spi4z9dKMU3a4/view)** (with Farzana Afridi, Amrita Dhillon and Nikita Sangwan). Accepted (undergoing data replication), *[American Economic Journal: Applied Economics](https://www.aeaweb.org/journals/app)*.
