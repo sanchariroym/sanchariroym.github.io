@@ -1,10 +1,10 @@
 /* Palette: fresh spring lime fading from near-white at the top, leaf-green links */
 :root {
-  --paper: #F2F9E0;
+  --paper: #F7FCEC;
   --ink: #232A26;
   --muted: #62676D;
   --accent: #2B7048;
-  --line: #DAE8BC;
+  --line: #E2EECB;
   --photo: #26292C;
   --display: "Newsreader", Georgia, serif;
   --serif: "Newsreader", Georgia, serif;
@@ -12,7 +12,7 @@
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--paper) linear-gradient(180deg, #FBFEF5 0, var(--paper) 70vh) fixed; color: var(--ink); font: 18px/1.7 var(--serif); }
+body { margin: 0; background: var(--paper) linear-gradient(180deg, #FDFFF9 0, var(--paper) 70vh) fixed; color: var(--ink); font: 18px/1.7 var(--serif); }
 a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { text-decoration-thickness: 2px; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
@@ -22,6 +22,9 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 /* Header */
 .site-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem 2rem; font: 500 1.22rem var(--display); }
 .mark { font-weight: 500; color: var(--ink); text-decoration: none; }
+.home-icon { display: inline-flex; align-self: center; padding: 0.35rem; margin-left: -0.35rem; border-radius: 6px; }
+.home-icon:hover { color: var(--accent); }
+.home-icon svg { width: 1.45rem; height: 1.45rem; }
 .site-header nav { display: flex; flex-wrap: wrap; gap: 0.35rem 1.4rem; }
 .site-header nav a { color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; }
 .site-header nav a:hover, .site-header nav a[aria-current] { color: var(--accent); border-color: var(--accent); }
