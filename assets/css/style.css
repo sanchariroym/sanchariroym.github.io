@@ -20,11 +20,11 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 .page { max-width: 72rem; margin: 0 auto; padding: 2rem clamp(1rem, 4vw, 3rem) 3rem; }
 
 /* Header */
-.site-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.5rem 2rem; font: 500 1.22rem var(--display); }
+.site-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem 2rem; font: 500 1.22rem var(--display); }
 .mark { font-weight: 500; color: var(--ink); text-decoration: none; }
 .home-icon { display: inline-flex; align-self: center; padding: 0.35rem; margin-left: -0.35rem; border-radius: 6px; }
 .home-icon:hover { color: var(--accent); }
-.home-icon svg { width: 1.45rem; height: 1.45rem; }
+.home-icon svg { width: 1.7rem; height: 1.7rem; }
 .site-header nav { display: flex; flex-wrap: wrap; gap: 0.35rem 1.4rem; }
 .site-header nav a { color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; }
 .site-header nav a:hover, .site-header nav a[aria-current] { color: var(--accent); border-color: var(--accent); }
