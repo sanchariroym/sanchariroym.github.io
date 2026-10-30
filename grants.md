@@ -8,12 +8,12 @@ description: "Research grants held by Sanchari Roy, including Wellcome Trust awa
 
 <div class="grant">
 <h2 class="item">ALIVE 2.0 Effectiveness Trial in South Africa</h2>
-<p class="meta">Wellcome Trust Discretionary Award; 2027–2029; £3.6 million; Co-I and Economics team Co-Lead</p>
+<p class="meta">Wellcome Trust Discretionary Award; 2027–2029; £3.6 million; Co-I and Co-Lead, Economics team</p>
 </div>
 
 <div class="grant">
 <h2 class="item"><a href="https://www.alive4mentalhealth.org">ALIVE: Improving Adolescent Mental Health by Reducing the Impact of Poverty</a></h2>
-<p class="meta">Wellcome Trust Collaborative Award; 2021–2026; £4.02 million; Co-I and Economics team Co-Lead</p>
+<p class="meta">Wellcome Trust Collaborative Award; 2021–2026; £4.02 million; Co-I and Co-Lead, Economics team</p>
 </div>
 
 <div class="grant">
